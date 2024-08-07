@@ -1,0 +1,25 @@
+body{
+    background-image: url("/img/rome.jpg");
+    background-size: 100%;
+}
+h1{
+    font-family: serif;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h2{
+    font-family: UPP;
+}
+
+div{
+    display: flex;
+  justify-content: center;
+margin: auto;
+padding: 10px 50px 20px;}
+
+.respuesta{
+    font-family: serif;
+    font-size: 50px;
+    font-weight: 200;
+}
